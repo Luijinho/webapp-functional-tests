@@ -2,7 +2,7 @@
 body {
     display: grid;
     grid-template-columns: auto auto;
-    grid-template-rows: 4em 30em;
+    grid-template-rows: 2em 4em 30em;
     gap: 1em;
 }
 
