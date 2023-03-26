@@ -1,0 +1,23 @@
+
+.botao {
+    float: left;
+    width: 3em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-radius: 2px;
+    text-align: center;
+    margin: 0.2em;
+    background: #DDD;
+    cursor: pointer;
+}
+
+#visor {
+    float:left;
+    border-width: 1px;
+    border-style: solid;
+    border-color: grey;
+    text-align: right;
+    width: 6em;
+    margin: 0.2em;
+}

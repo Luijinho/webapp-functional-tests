@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-items: stretch;
+    gap: 0.5em;
+}
+
+#display {
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    font-family: monospace;
+    text-align: right;
+    width: 6em;
+}
